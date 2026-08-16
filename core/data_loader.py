@@ -297,7 +297,8 @@ def numeric_columns(df: pd.DataFrame) -> list[str]:
         if pd.api.types.is_datetime64_any_dtype(series) or pd.api.types.is_timedelta64_dtype(series):
             continue
         converted = pd.to_numeric(series, errors="coerce")
-        if converted.notna().sum() >= max(2, int(len(df) * 0.5)):
+        min_valid = 1 if len(df) < 2 else max(2, int(len(df) * 0.5))
+        if converted.notna().sum() >= min_valid:
             cols.append(col)
     return cols
 
