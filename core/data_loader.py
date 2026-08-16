@@ -101,13 +101,11 @@ def _try_csv(raw: bytes) -> pd.DataFrame | None:
                 pass
 
     # Flexible enough for comma/semicolon/tab files typically used by sensors.
-    for sep in (None, ";", ",", "\t"):
+    # No sep=None/sniffer: it can pick a character that coincidentally recurs
+    # in free-form text and misread a log as a table without ever raising.
+    for sep in (";", ",", "\t"):
         try:
-            df = pd.read_csv(
-                io.StringIO(text),
-                sep=sep,
-                engine="python" if sep is None else "c",
-            )
+            df = pd.read_csv(io.StringIO(text), sep=sep, engine="c")
             # Reject the common case where a free-form log was interpreted as a
             # one-column table. Special plugins can still parse those raw bytes.
             if len(df.columns) >= 2 and len(df) >= 1:
