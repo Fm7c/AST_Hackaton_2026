@@ -1,0 +1,200 @@
+Hora_python - 10:00; Hora_API - 10:00; Índice_UV_API - 4.00
+uva=99.623, uvb=4.122, uvc=1.658, uvi=3.968, opt3001_lux=14861.65, veml_C=1200.00, veml_R=500.00, veml_G=620.00, veml_B=480.00, veml_I=250.00, veml_lux=13969.95, veml_cct=5200.00, uvTemp=31.00
+Hora_python - 10:01; Hora_API - 10:01; Índice_UV_API - 4.07
+uva=104.503, uvb=4.196, uvc=1.762, uvi=4.179, opt3001_lux=15132.51, veml_C=1207.05, veml_R=503.16, veml_G=623.89, veml_B=483.44, veml_I=251.25, veml_lux=14224.56, veml_cct=5206.67, uvTemp=31.03
+Hora_python - 10:02; Hora_API - 10:02; Índice_UV_API - 4.13
+uva=103.390, uvb=3.989, uvc=1.640, uvi=4.160, opt3001_lux=15344.50, veml_C=1214.09, veml_R=506.30, veml_G=627.76, veml_B=486.86, veml_I=252.50, veml_lux=14423.83, veml_cct=5213.32, uvTemp=31.06
+Hora_python - 10:03; Hora_API - 10:03; Índice_UV_API - 4.20
+uva=106.902, uvb=4.485, uvc=1.818, uvi=4.020, opt3001_lux=15348.54, veml_C=1221.07, veml_R=509.43, veml_G=631.61, veml_B=490.25, veml_I=253.74, veml_lux=14427.63, veml_cct=5219.97, uvTemp=31.09
+Hora_python - 10:04; Hora_API - 10:04; Índice_UV_API - 4.27
+uva=106.921, uvb=4.710, uvc=1.815, uvi=4.467, opt3001_lux=15480.06, veml_C=1227.98, veml_R=512.54, veml_G=635.43, veml_B=493.61, veml_I=254.97, veml_lux=14551.25, veml_cct=5226.59, uvTemp=31.12
+Hora_python - 10:05; Hora_API - 10:05; Índice_UV_API - 4.33
+uva=105.656, uvb=4.530, uvc=1.701, uvi=4.289, opt3001_lux=15672.39, veml_C=1234.79, veml_R=515.61, veml_G=639.20, veml_B=496.91, veml_I=256.19, veml_lux=14732.04, veml_cct=5233.18, uvTemp=31.15
+Hora_python - 10:06; Hora_API - 10:06; Índice_UV_API - 4.40
+uva=112.051, uvb=4.438, uvc=1.699, uvi=4.488, opt3001_lux=15692.15, veml_C=1241.48, veml_R=518.63, veml_G=642.90, veml_B=500.14, veml_I=257.39, veml_lux=14750.63, veml_cct=5239.73, uvTemp=31.18
+Hora_python - 10:07; Hora_API - 10:07; Índice_UV_API - 4.46
+uva=110.372, uvb=4.556, uvc=1.772, uvi=4.605, opt3001_lux=15660.67, veml_C=1248.03, veml_R=521.61, veml_G=646.54, veml_B=503.30, veml_I=258.57, veml_lux=14721.03, veml_cct=5246.24, uvTemp=31.21
+Hora_python - 10:08; Hora_API - 10:08; Índice_UV_API - 4.53
+uva=110.649, uvb=4.748, uvc=1.761, uvi=4.237, opt3001_lux=16234.69, veml_C=1254.41, veml_R=524.52, veml_G=650.10, veml_B=506.37, veml_I=259.74, veml_lux=15260.61, veml_cct=5252.70, uvTemp=31.24
+Hora_python - 10:09; Hora_API - 10:09; Índice_UV_API - 4.59
+uva=115.295, uvb=4.712, uvc=1.744, uvi=4.718, opt3001_lux=15900.98, veml_C=1260.60, veml_R=527.37, veml_G=653.56, veml_B=509.33, veml_I=260.87, veml_lux=14946.92, veml_cct=5259.10, uvTemp=31.27
+Hora_python - 10:10; Hora_API - 10:10; Índice_UV_API - 4.65
+uva=115.000, uvb=4.658, uvc=1.774, uvi=4.575, opt3001_lux=16326.30, veml_C=1266.59, veml_R=530.14, veml_G=656.92, veml_B=512.18, veml_I=261.99, veml_lux=15346.73, veml_cct=5265.44, uvTemp=31.30
+Hora_python - 10:11; Hora_API - 10:11; Índice_UV_API - 4.72
+uva=114.392, uvb=4.949, uvc=1.797, uvi=4.893, opt3001_lux=16547.02, veml_C=1272.34, veml_R=532.83, veml_G=660.16, veml_B=514.90, veml_I=263.07, veml_lux=15554.20, veml_cct=5271.70, uvTemp=31.33
+Hora_python - 10:12; Hora_API - 10:12; Índice_UV_API - 4.78
+uva=115.544, uvb=4.798, uvc=1.758, uvi=4.831, opt3001_lux=16545.31, veml_C=1277.84, veml_R=535.43, veml_G=663.29, veml_B=517.49, veml_I=264.12, veml_lux=15552.59, veml_cct=5277.88, uvTemp=31.35
+Hora_python - 10:13; Hora_API - 10:13; Índice_UV_API - 4.84
+uva=113.411, uvb=4.911, uvc=1.771, uvi=5.123, opt3001_lux=16398.52, veml_C=1283.08, veml_R=537.92, veml_G=666.27, veml_B=519.93, veml_I=265.13, veml_lux=15414.61, veml_cct=5283.98, uvTemp=31.38
+Hora_python - 10:14; Hora_API - 10:14; Índice_UV_API - 4.90
+uva=116.444, uvb=5.219, uvc=1.886, uvi=4.766, opt3001_lux=16732.73, veml_C=1288.03, veml_R=540.32, veml_G=669.12, veml_B=522.21, veml_I=266.11, veml_lux=15728.77, veml_cct=5289.98, uvTemp=31.41
+Hora_python - 10:15; Hora_API - 10:15; Índice_UV_API - 4.96
+uva=121.682, uvb=4.761, uvc=1.799, uvi=4.908, opt3001_lux=17286.23, veml_C=1292.67, veml_R=542.60, veml_G=671.81, veml_B=524.33, veml_I=267.04, veml_lux=16249.05, veml_cct=5295.89, uvTemp=31.44
+Hora_python - 10:16; Hora_API - 10:16; Índice_UV_API - 5.02
+uva=120.649, uvb=5.180, uvc=1.911, uvi=5.396, opt3001_lux=16974.81, veml_C=1296.99, veml_R=544.76, veml_G=674.35, veml_B=526.28, veml_I=267.93, veml_lux=15956.33, veml_cct=5301.68, uvTemp=31.47
+Hora_python - 10:17; Hora_API - 10:17; Índice_UV_API - 5.07
+uva=122.505, uvb=5.489, uvc=1.819, uvi=5.259, opt3001_lux=16997.11, veml_C=1300.98, veml_R=546.80, veml_G=676.71, veml_B=528.05, veml_I=268.78, veml_lux=15977.29, veml_cct=5307.36, uvTemp=31.49
+Hora_python - 10:18; Hora_API - 10:18; Índice_UV_API - 5.13
+uva=123.705, uvb=5.226, uvc=1.851, uvi=4.952, opt3001_lux=17363.13, veml_C=1304.61, veml_R=548.71, veml_G=678.90, veml_B=529.62, veml_I=269.58, veml_lux=16321.34, veml_cct=5312.93, uvTemp=31.52
+Hora_python - 10:19; Hora_API - 10:19; Índice_UV_API - 5.18
+uva=126.394, uvb=5.286, uvc=1.914, uvi=5.286, opt3001_lux=17216.90, veml_C=1307.89, veml_R=550.49, veml_G=680.91, veml_B=531.01, veml_I=270.34, veml_lux=16183.89, veml_cct=5318.37, uvTemp=31.55
+Hora_python - 10:20; Hora_API - 10:20; Índice_UV_API - 5.24
+uva=126.724, uvb=5.467, uvc=2.018, uvi=5.169, opt3001_lux=17419.13, veml_C=1310.79, veml_R=552.12, veml_G=682.73, veml_B=532.19, veml_I=271.04, veml_lux=16373.98, veml_cct=5323.67, uvTemp=31.58
+Hora_python - 10:21; Hora_API - 10:21; Índice_UV_API - 5.29
+uva=127.561, uvb=5.502, uvc=1.899, uvi=5.216, opt3001_lux=17714.48, veml_C=1313.31, veml_R=553.61, veml_G=684.36, veml_B=533.18, veml_I=271.69, veml_lux=16651.61, veml_cct=5328.84, uvTemp=31.60
+Hora_python - 10:22; Hora_API - 10:22; Índice_UV_API - 5.34
+uva=125.081, uvb=5.348, uvc=1.904, uvi=5.518, opt3001_lux=17576.67, veml_C=1315.44, veml_R=554.96, veml_G=685.79, veml_B=533.95, veml_I=272.28, veml_lux=16522.07, veml_cct=5333.87, uvTemp=31.63
+Hora_python - 10:23; Hora_API - 10:23; Índice_UV_API - 5.39
+uva=123.698, uvb=5.149, uvc=1.839, uvi=5.151, opt3001_lux=17753.68, veml_C=1317.16, veml_R=556.15, veml_G=687.02, veml_B=534.51, veml_I=272.82, veml_lux=16688.46, veml_cct=5338.75, uvTemp=31.65
+Hora_python - 10:24; Hora_API - 10:24; Índice_UV_API - 5.43
+uva=125.583, uvb=5.352, uvc=1.874, uvi=5.355, opt3001_lux=18131.67, veml_C=1318.49, veml_R=557.18, veml_G=688.04, veml_B=534.86, veml_I=273.30, veml_lux=17043.77, veml_cct=5343.47, uvTemp=31.68
+Hora_python - 10:25; Hora_API - 10:25; Índice_UV_API - 5.48
+uva=129.793, uvb=5.478, uvc=1.920, uvi=5.402, opt3001_lux=18010.70, veml_C=1319.40, veml_R=558.06, veml_G=688.85, veml_B=535.00, veml_I=273.72, veml_lux=16930.06, veml_cct=5348.04, uvTemp=31.70
+Hora_python - 10:26; Hora_API - 10:26; Índice_UV_API - 5.52
+uva=130.075, uvb=5.352, uvc=1.942, uvi=5.159, opt3001_lux=18060.76, veml_C=1319.90, veml_R=558.78, veml_G=689.44, veml_B=534.92, veml_I=274.09, veml_lux=16977.11, veml_cct=5352.44, uvTemp=31.73
+Hora_python - 10:27; Hora_API - 10:27; Índice_UV_API - 5.57
+uva=130.796, uvb=5.454, uvc=2.019, uvi=5.408, opt3001_lux=18130.34, veml_C=1319.98, veml_R=559.33, veml_G=689.82, veml_B=534.63, veml_I=274.39, veml_lux=17042.52, veml_cct=5356.67, uvTemp=31.75
+Hora_python - 10:28; Hora_API - 10:28; Índice_UV_API - 5.61
+uva=129.492, uvb=5.485, uvc=1.931, uvi=5.626, opt3001_lux=18319.94, veml_C=1319.65, veml_R=559.72, veml_G=689.99, veml_B=534.12, veml_I=274.64, veml_lux=17220.75, veml_cct=5360.72, uvTemp=31.77
+Hora_python - 10:29; Hora_API - 10:29; Índice_UV_API - 5.65
+uva=132.537, uvb=5.498, uvc=1.993, uvi=5.520, opt3001_lux=18362.00, veml_C=1318.91, veml_R=559.94, veml_G=689.94, veml_B=533.40, veml_I=274.82, veml_lux=17260.28, veml_cct=5364.60, uvTemp=31.80
+Hora_python - 10:30; Hora_API - 10:30; Índice_UV_API - 5.68
+uva=128.401, uvb=5.657, uvc=2.016, uvi=5.661, opt3001_lux=17823.63, veml_C=1317.75, veml_R=560.00, veml_G=689.68, veml_B=532.47, veml_I=274.94, veml_lux=16754.21, veml_cct=5368.29, uvTemp=31.82
+Hora_python - 10:31; Hora_API - 10:31; Índice_UV_API - 5.72
+uva=128.897, uvb=5.668, uvc=1.953, uvi=5.763, opt3001_lux=18511.98, veml_C=1316.19, veml_R=559.89, veml_G=689.20, veml_B=531.34, veml_I=274.99, veml_lux=17401.26, veml_cct=5371.80, uvTemp=31.84
+Hora_python - 10:32; Hora_API - 10:32; Índice_UV_API - 5.75
+uva=130.956, uvb=5.651, uvc=1.984, uvi=6.025, opt3001_lux=18424.81, veml_C=1314.22, veml_R=559.61, veml_G=688.51, veml_B=530.01, veml_I=274.99, veml_lux=17319.33, veml_cct=5375.12, uvTemp=31.86
+Hora_python - 10:33; Hora_API - 10:33; Índice_UV_API - 5.78
+uva=131.716, uvb=5.403, uvc=1.930, uvi=6.090, opt3001_lux=18433.74, veml_C=1311.86, veml_R=559.17, veml_G=687.60, veml_B=528.48, veml_I=274.92, veml_lux=17327.72, veml_cct=5378.24, uvTemp=31.88
+Hora_python - 10:34; Hora_API - 10:34; Índice_UV_API - 5.81
+uva=131.360, uvb=5.443, uvc=1.927, uvi=5.814, opt3001_lux=18709.72, veml_C=1309.12, veml_R=558.57, veml_G=686.49, veml_B=526.77, veml_I=274.79, veml_lux=17587.14, veml_cct=5381.17, uvTemp=31.90
+Hora_python - 10:35; Hora_API - 10:35; Índice_UV_API - 5.84
+uva=130.630, uvb=5.140, uvc=1.936, uvi=6.160, opt3001_lux=18406.31, veml_C=1305.99, veml_R=557.81, veml_G=685.17, veml_B=524.87, veml_I=274.60, veml_lux=17301.94, veml_cct=5383.89, uvTemp=31.92
+Hora_python - 10:36; Hora_API - 10:36; Índice_UV_API - 5.86
+uva=125.614, uvb=5.648, uvc=1.932, uvi=5.851, opt3001_lux=18395.82, veml_C=1302.50, veml_R=556.88, veml_G=683.65, veml_B=522.79, veml_I=274.35, veml_lux=17292.07, veml_cct=5386.41, uvTemp=31.94
+Hora_python - 10:37; Hora_API - 10:37; Índice_UV_API - 5.89
+uva=131.003, uvb=5.246, uvc=1.994, uvi=5.985, opt3001_lux=18534.52, veml_C=1298.65, veml_R=555.80, veml_G=681.94, veml_B=520.55, veml_I=274.03, veml_lux=17422.45, veml_cct=5388.72, uvTemp=31.96
+Hora_python - 10:38; Hora_API - 10:38; Índice_UV_API - 5.91
+uva=128.680, uvb=5.260, uvc=1.971, uvi=5.752, opt3001_lux=18171.10, veml_C=1294.47, veml_R=554.56, veml_G=680.03, veml_B=518.15, veml_I=273.66, veml_lux=17080.83, veml_cct=5390.82, uvTemp=31.98
+Hora_python - 10:39; Hora_API - 10:39; Índice_UV_API - 5.93
+uva=129.098, uvb=5.336, uvc=1.952, uvi=6.001, opt3001_lux=18435.69, veml_C=1289.95, veml_R=553.17, veml_G=677.94, veml_B=515.60, veml_I=273.22, veml_lux=17329.55, veml_cct=5392.71, uvTemp=31.99
+Hora_python - 10:40; Hora_API - 10:40; Índice_UV_API - 5.94
+uva=128.854, uvb=5.186, uvc=1.911, uvi=5.888, opt3001_lux=18902.64, veml_C=1285.13, veml_R=551.63, veml_G=675.67, veml_B=512.92, veml_I=272.73, veml_lux=17768.48, veml_cct=5394.39, uvTemp=32.01
+Hora_python - 10:41; Hora_API - 10:41; Índice_UV_API - 5.96
+uva=123.151, uvb=5.215, uvc=1.818, uvi=5.939, opt3001_lux=18404.90, veml_C=1280.01, veml_R=549.95, veml_G=673.22, veml_B=510.10, veml_I=272.18, veml_lux=17300.60, veml_cct=5395.85, uvTemp=32.03
+Hora_python - 10:42; Hora_API - 10:42; Índice_UV_API - 5.97
+uva=121.726, uvb=5.143, uvc=1.859, uvi=5.593, opt3001_lux=18647.06, veml_C=1274.61, veml_R=548.14, veml_G=670.62, veml_B=507.17, veml_I=271.58, veml_lux=17528.24, veml_cct=5397.09, uvTemp=32.04
+Hora_python - 10:43; Hora_API - 10:43; Índice_UV_API - 5.98
+uva=127.977, uvb=5.249, uvc=1.938, uvi=5.989, opt3001_lux=18726.75, veml_C=1268.96, veml_R=546.18, veml_G=667.85, veml_B=504.13, veml_I=270.92, veml_lux=17603.14, veml_cct=5398.11, uvTemp=32.06
+Hora_python - 10:44; Hora_API - 10:44; Índice_UV_API - 5.99
+uva=127.620, uvb=5.133, uvc=1.883, uvi=6.025, opt3001_lux=18525.44, veml_C=1263.07, veml_R=544.11, veml_G=664.94, veml_B=500.99, veml_I=270.21, veml_lux=17413.92, veml_cct=5398.92, uvTemp=32.07
+Hora_python - 10:45; Hora_API - 10:45; Índice_UV_API - 5.99
+uva=119.723, uvb=4.968, uvc=1.949, uvi=6.110, opt3001_lux=18703.15, veml_C=1256.95, veml_R=541.90, veml_G=661.89, veml_B=497.78, veml_I=269.45, veml_lux=17580.96, veml_cct=5399.50, uvTemp=32.08
+Hora_python - 10:46; Hora_API - 10:46; Índice_UV_API - 6.00
+uva=122.737, uvb=4.819, uvc=1.897, uvi=5.852, opt3001_lux=18181.19, veml_C=1250.65, veml_R=539.59, veml_G=658.71, veml_B=494.49, veml_I=268.64, veml_lux=17090.31, veml_cct=5399.86, uvTemp=32.10
+Hora_python - 10:47; Hora_API - 10:47; Índice_UV_API - 6.00
+uva=123.877, uvb=4.965, uvc=1.851, uvi=6.174, opt3001_lux=18316.62, veml_C=1244.16, veml_R=537.16, veml_G=655.42, veml_B=491.15, veml_I=267.79, veml_lux=17217.63, veml_cct=5400.00, uvTemp=32.11
+Hora_python - 10:48; Hora_API - 10:48; Índice_UV_API - 6.00
+uva=120.944, uvb=4.755, uvc=1.907, uvi=6.014, opt3001_lux=18570.79, veml_C=1237.53, veml_R=534.63, veml_G=652.01, veml_B=487.76, veml_I=266.89, veml_lux=17456.54, veml_cct=5399.91, uvTemp=32.12
+Hora_python - 10:49; Hora_API - 10:49; Índice_UV_API - 6.00
+uva=119.752, uvb=4.704, uvc=1.825, uvi=6.385, opt3001_lux=18332.21, veml_C=1230.76, veml_R=532.01, veml_G=648.50, veml_B=484.35, veml_I=265.94, veml_lux=17232.27, veml_cct=5399.61, uvTemp=32.13
+Hora_python - 10:50; Hora_API - 10:50; Índice_UV_API - 5.99
+uva=119.380, uvb=4.293, uvc=1.822, uvi=6.214, opt3001_lux=18239.92, veml_C=1223.89, veml_R=529.29, veml_G=644.91, veml_B=480.91, veml_I=264.96, veml_lux=17145.52, veml_cct=5399.08, uvTemp=32.14
+Hora_python - 10:51; Hora_API - 10:51; Índice_UV_API - 5.98
+uva=112.903, uvb=4.611, uvc=1.781, uvi=6.237, opt3001_lux=18104.18, veml_C=1216.93, veml_R=526.50, veml_G=641.24, veml_B=477.48, veml_I=263.94, veml_lux=17017.93, veml_cct=5398.33, uvTemp=32.15
+Hora_python - 10:52; Hora_API - 10:52; Índice_UV_API - 5.97
+uva=115.874, uvb=4.552, uvc=1.791, uvi=5.795, opt3001_lux=18016.67, veml_C=1209.92, veml_R=523.63, veml_G=637.50, veml_B=474.05, veml_I=262.89, veml_lux=16935.67, veml_cct=5397.36, uvTemp=32.16
+Hora_python - 10:53; Hora_API - 10:53; Índice_UV_API - 5.96
+uva=115.815, uvb=4.094, uvc=1.760, uvi=6.110, opt3001_lux=17864.70, veml_C=1202.87, veml_R=520.69, veml_G=633.71, veml_B=470.65, veml_I=261.80, veml_lux=16792.81, veml_cct=5396.18, uvTemp=32.16
+Hora_python - 10:54; Hora_API - 10:54; Índice_UV_API - 5.95
+uva=112.037, uvb=3.933, uvc=1.769, uvi=5.946, opt3001_lux=18095.92, veml_C=1195.82, veml_R=517.70, veml_G=629.88, veml_B=467.28, veml_I=260.68, veml_lux=17010.16, veml_cct=5394.77, uvTemp=32.17
+Hora_python - 10:55; Hora_API - 10:55; Índice_UV_API - 5.93
+uva=109.907, uvb=4.378, uvc=1.752, uvi=5.809, opt3001_lux=18137.21, veml_C=1188.77, veml_R=514.66, veml_G=626.02, veml_B=463.96, veml_I=259.54, veml_lux=17048.98, veml_cct=5393.15, uvTemp=32.18
+Hora_python - 10:56; Hora_API - 10:56; Índice_UV_API - 5.91
+uva=110.473, uvb=3.963, uvc=1.778, uvi=6.157, opt3001_lux=18038.35, veml_C=1181.77, veml_R=511.58, veml_G=622.13, veml_B=460.71, veml_I=258.37, veml_lux=16956.05, veml_cct=5391.31, uvTemp=32.18
+Hora_python - 10:57; Hora_API - 10:57; Índice_UV_API - 5.89
+uva=106.991, uvb=3.956, uvc=1.760, uvi=5.715, opt3001_lux=17644.95, veml_C=1174.83, veml_R=508.47, veml_G=618.25, veml_B=457.53, veml_I=257.19, veml_lux=16586.25, veml_cct=5389.26, uvTemp=32.19
+Hora_python - 10:58; Hora_API - 10:58; Índice_UV_API - 5.87
+uva=107.188, uvb=4.050, uvc=1.806, uvi=5.811, opt3001_lux=17520.02, veml_C=1167.97, veml_R=505.33, veml_G=614.36, veml_B=454.44, veml_I=255.98, veml_lux=16468.82, veml_cct=5387.00, uvTemp=32.19
+Hora_python - 10:59; Hora_API - 10:59; Índice_UV_API - 5.85
+uva=107.041, uvb=3.709, uvc=1.780, uvi=5.829, opt3001_lux=17271.56, veml_C=1161.23, veml_R=502.18, veml_G=610.50, veml_B=451.44, veml_I=254.76, veml_lux=16235.26, veml_cct=5384.53, uvTemp=32.19
+Hora_python - 11:00; Hora_API - 11:00; Índice_UV_API - 5.82
+uva=102.320, uvb=3.931, uvc=1.712, uvi=6.114, opt3001_lux=17261.39, veml_C=1154.62, veml_R=499.02, veml_G=606.66, veml_B=448.56, veml_I=253.53, veml_lux=16225.71, veml_cct=5381.86, uvTemp=32.20
+Hora_python - 11:01; Hora_API - 11:01; Índice_UV_API - 5.79
+uva=103.326, uvb=3.992, uvc=1.684, uvi=5.448, opt3001_lux=17516.34, veml_C=1148.17, veml_R=495.87, veml_G=602.87, veml_B=445.81, veml_I=252.29, veml_lux=16465.36, veml_cct=5378.98, uvTemp=32.20
+Hora_python - 11:02; Hora_API - 11:02; Índice_UV_API - 5.76
+uva=99.594, uvb=3.550, uvc=1.673, uvi=5.807, opt3001_lux=16960.20, veml_C=1141.89, veml_R=492.72, veml_G=599.12, veml_B=443.18, veml_I=251.04, veml_lux=15942.59, veml_cct=5375.91, uvTemp=32.20
+Hora_python - 11:03; Hora_API - 11:03; Índice_UV_API - 5.73
+uva=99.388, uvb=3.541, uvc=1.655, uvi=5.600, opt3001_lux=16968.68, veml_C=1135.82, veml_R=489.60, veml_G=595.45, veml_B=440.70, veml_I=249.79, veml_lux=15950.56, veml_cct=5372.64, uvTemp=32.20
+Hora_python - 11:04; Hora_API - 11:04; Índice_UV_API - 5.69
+uva=95.391, uvb=3.333, uvc=1.668, uvi=5.620, opt3001_lux=16868.47, veml_C=1129.97, veml_R=486.51, veml_G=591.84, veml_B=438.38, veml_I=248.54, veml_lux=15856.36, veml_cct=5369.18, uvTemp=32.20
+Hora_python - 11:05; Hora_API - 11:05; Índice_UV_API - 5.66
+uva=96.714, uvb=3.223, uvc=1.701, uvi=5.914, opt3001_lux=16711.38, veml_C=1124.36, veml_R=483.45, veml_G=588.33, veml_B=436.21, veml_I=247.30, veml_lux=15708.70, veml_cct=5365.53, uvTemp=32.20
+Hora_python - 11:06; Hora_API - 11:06; Índice_UV_API - 5.62
+uva=96.238, uvb=3.212, uvc=1.685, uvi=5.899, opt3001_lux=16784.61, veml_C=1119.02, veml_R=480.44, veml_G=584.91, veml_B=434.22, veml_I=246.06, veml_lux=15777.53, veml_cct=5361.70, uvTemp=32.20
+Hora_python - 11:07; Hora_API - 11:07; Índice_UV_API - 5.58
+uva=90.246, uvb=3.245, uvc=1.671, uvi=5.537, opt3001_lux=16757.94, veml_C=1113.95, veml_R=477.48, veml_G=581.60, veml_B=432.40, veml_I=244.83, veml_lux=15752.46, veml_cct=5357.69, uvTemp=32.19
+Hora_python - 11:08; Hora_API - 11:08; Índice_UV_API - 5.53
+uva=90.954, uvb=2.886, uvc=1.633, uvi=5.219, opt3001_lux=16384.30, veml_C=1109.18, veml_R=474.59, veml_G=578.41, veml_B=430.78, veml_I=243.61, veml_lux=15401.24, veml_cct=5353.50, uvTemp=32.19
+Hora_python - 11:09; Hora_API - 11:09; Índice_UV_API - 5.49
+uva=93.467, uvb=2.757, uvc=1.597, uvi=5.306, opt3001_lux=16290.73, veml_C=1104.73, veml_R=471.76, veml_G=575.35, veml_B=429.34, veml_I=242.41, veml_lux=15313.29, veml_cct=5349.14, uvTemp=32.19
+Hora_python - 11:10; Hora_API - 11:10; Índice_UV_API - 5.45
+uva=88.745, uvb=3.190, uvc=1.648, uvi=5.535, opt3001_lux=16201.58, veml_C=1100.60, veml_R=469.02, veml_G=572.42, veml_B=428.10, veml_I=241.23, veml_lux=15229.49, veml_cct=5344.62, uvTemp=32.18
+Hora_python - 11:11; Hora_API - 11:11; Índice_UV_API - 5.40
+uva=88.872, uvb=2.792, uvc=1.645, uvi=5.199, opt3001_lux=16206.72, veml_C=1096.82, veml_R=466.36, veml_G=569.65, veml_B=427.06, veml_I=240.07, veml_lux=15234.32, veml_cct=5339.93, uvTemp=32.18
+Hora_python - 11:12; Hora_API - 11:12; Índice_UV_API - 5.35
+uva=89.097, uvb=2.896, uvc=1.606, uvi=5.423, opt3001_lux=15332.86, veml_C=1093.40, veml_R=463.79, veml_G=567.02, veml_B=426.24, veml_I=238.94, veml_lux=14412.89, veml_cct=5335.09, uvTemp=32.17
+Hora_python - 11:13; Hora_API - 11:13; Índice_UV_API - 5.30
+uva=86.001, uvb=2.795, uvc=1.586, uvi=5.428, opt3001_lux=15754.29, veml_C=1090.34, veml_R=461.32, veml_G=564.56, veml_B=425.62, veml_I=237.83, veml_lux=14809.03, veml_cct=5330.10, uvTemp=32.16
+Hora_python - 11:14; Hora_API - 11:14; Índice_UV_API - 5.25
+uva=81.825, uvb=2.742, uvc=1.557, uvi=5.270, opt3001_lux=15664.47, veml_C=1087.67, veml_R=458.96, veml_G=562.28, veml_B=425.21, veml_I=236.75, veml_lux=14724.60, veml_cct=5324.97, uvTemp=32.15
+Hora_python - 11:15; Hora_API - 11:15; Índice_UV_API - 5.20
+uva=84.932, uvb=2.555, uvc=1.586, uvi=5.429, opt3001_lux=15147.00, veml_C=1085.38, veml_R=456.72, veml_G=560.17, veml_B=425.02, veml_I=235.71, veml_lux=14238.18, veml_cct=5319.69, uvTemp=32.14
+Hora_python - 11:16; Hora_API - 11:16; Índice_UV_API - 5.14
+uva=82.004, uvb=2.589, uvc=1.541, uvi=4.980, opt3001_lux=15321.05, veml_C=1083.49, veml_R=454.59, veml_G=558.24, veml_B=425.04, veml_I=234.70, veml_lux=14401.79, veml_cct=5314.29, uvTemp=32.14
+Hora_python - 11:17; Hora_API - 11:17; Índice_UV_API - 5.09
+uva=84.164, uvb=2.450, uvc=1.527, uvi=4.853, opt3001_lux=15560.92, veml_C=1082.00, veml_R=452.59, veml_G=556.51, veml_B=425.28, veml_I=233.73, veml_lux=14627.27, veml_cct=5308.75, uvTemp=32.13
+Hora_python - 11:18; Hora_API - 11:18; Índice_UV_API - 5.03
+uva=78.442, uvb=2.603, uvc=1.511, uvi=4.861, opt3001_lux=15028.54, veml_C=1080.92, veml_R=450.72, veml_G=554.97, veml_B=425.73, veml_I=232.81, veml_lux=14126.83, veml_cct=5303.10, uvTemp=32.11
+Hora_python - 11:19; Hora_API - 11:19; Índice_UV_API - 4.97
+uva=83.221, uvb=2.787, uvc=1.532, uvi=5.090, opt3001_lux=14769.27, veml_C=1080.26, veml_R=448.99, veml_G=553.63, veml_B=426.39, veml_I=231.92, veml_lux=13883.12, veml_cct=5297.33, uvTemp=32.10
+Hora_python - 11:20; Hora_API - 11:20; Índice_UV_API - 4.91
+uva=73.743, uvb=2.706, uvc=1.536, uvi=5.103, opt3001_lux=14701.72, veml_C=1080.00, veml_R=447.40, veml_G=552.50, veml_B=427.26, veml_I=231.08, veml_lux=13819.61, veml_cct=5291.45, uvTemp=32.09
+Hora_python - 11:21; Hora_API - 11:21; Índice_UV_API - 4.85
+uva=76.011, uvb=2.646, uvc=1.524, uvi=4.784, opt3001_lux=14332.32, veml_C=1080.16, veml_R=445.95, veml_G=551.57, veml_B=428.34, veml_I=230.29, veml_lux=13472.38, veml_cct=5285.48, uvTemp=32.08
+Hora_python - 11:22; Hora_API - 11:22; Índice_UV_API - 4.79
+uva=75.679, uvb=2.680, uvc=1.458, uvi=4.909, opt3001_lux=14583.43, veml_C=1080.74, veml_R=444.66, veml_G=550.86, veml_B=429.62, veml_I=229.54, veml_lux=13708.42, veml_cct=5279.40, uvTemp=32.06
+Hora_python - 11:23; Hora_API - 11:23; Índice_UV_API - 4.73
+uva=76.121, uvb=2.638, uvc=1.481, uvi=4.441, opt3001_lux=14272.18, veml_C=1081.73, veml_R=443.51, veml_G=550.36, veml_B=431.09, veml_I=228.85, veml_lux=13415.85, veml_cct=5273.24, uvTemp=32.05
+Hora_python - 11:24; Hora_API - 11:24; Índice_UV_API - 4.67
+uva=75.631, uvb=2.420, uvc=1.477, uvi=4.342, opt3001_lux=14592.17, veml_C=1083.13, veml_R=442.53, veml_G=550.07, veml_B=432.76, veml_I=228.21, veml_lux=13716.64, veml_cct=5267.00, uvTemp=32.04
+Hora_python - 11:25; Hora_API - 11:25; Índice_UV_API - 4.61
+uva=74.802, uvb=2.616, uvc=1.537, uvi=4.711, opt3001_lux=14056.74, veml_C=1084.93, veml_R=441.70, veml_G=550.00, veml_B=434.61, veml_I=227.63, veml_lux=13213.34, veml_cct=5260.68, uvTemp=32.02
+Hora_python - 11:26; Hora_API - 11:26; Índice_UV_API - 4.54
+uva=72.187, uvb=2.439, uvc=1.583, uvi=4.643, opt3001_lux=13878.25, veml_C=1087.13, veml_R=441.04, veml_G=550.15, veml_B=436.64, veml_I=227.10, veml_lux=13045.55, veml_cct=5254.30, uvTemp=32.00
+Hora_python - 11:27; Hora_API - 11:27; Índice_UV_API - 4.48
+uva=72.879, uvb=2.359, uvc=1.543, uvi=4.360, opt3001_lux=13938.27, veml_C=1089.72, veml_R=440.53, veml_G=550.51, veml_B=438.84, veml_I=226.62, veml_lux=13101.97, veml_cct=5247.85, uvTemp=31.99
+Hora_python - 11:28; Hora_API - 11:28; Índice_UV_API - 4.41
+uva=73.584, uvb=2.581, uvc=1.492, uvi=4.415, opt3001_lux=13695.67, veml_C=1092.69, veml_R=440.20, veml_G=551.09, veml_B=441.20, veml_I=226.21, veml_lux=12873.93, veml_cct=5241.35, uvTemp=31.97
+Hora_python - 11:29; Hora_API - 11:29; Índice_UV_API - 4.35
+uva=69.873, uvb=2.473, uvc=1.518, uvi=4.329, opt3001_lux=13420.77, veml_C=1096.04, veml_R=440.02, veml_G=551.88, veml_B=443.71, veml_I=225.86, veml_lux=12615.52, veml_cct=5234.81, uvTemp=31.95
+Hora_python - 11:30; Hora_API - 11:30; Índice_UV_API - 4.28
+uva=69.642, uvb=2.727, uvc=1.484, uvi=4.383, opt3001_lux=13399.67, veml_C=1099.74, veml_R=440.02, veml_G=552.88, veml_B=446.36, veml_I=225.56, veml_lux=12595.69, veml_cct=5228.22, uvTemp=31.93
+Hora_python - 11:31; Hora_API - 11:31; Índice_UV_API - 4.22
+uva=71.541, uvb=2.491, uvc=1.462, uvi=4.391, opt3001_lux=13501.76, veml_C=1103.79, veml_R=440.18, veml_G=554.08, veml_B=449.14, veml_I=225.33, veml_lux=12691.65, veml_cct=5221.61, uvTemp=31.91
+Hora_python - 11:32; Hora_API - 11:32; Índice_UV_API - 4.15
+uva=68.225, uvb=2.489, uvc=1.450, uvi=4.460, opt3001_lux=12822.19, veml_C=1108.17, veml_R=440.50, veml_G=555.49, veml_B=452.04, veml_I=225.16, veml_lux=12052.86, veml_cct=5214.97, uvTemp=31.89
+Hora_python - 11:33; Hora_API - 11:33; Índice_UV_API - 4.08
+uva=70.615, uvb=2.446, uvc=1.440, uvi=4.018, opt3001_lux=13002.48, veml_C=1112.87, veml_R=440.99, veml_G=557.10, veml_B=455.06, veml_I=225.05, veml_lux=12222.33, veml_cct=5208.32, uvTemp=31.87
+Hora_python - 11:34; Hora_API - 11:34; Índice_UV_API - 4.02
+uva=68.935, uvb=2.692, uvc=1.430, uvi=3.753, opt3001_lux=13126.89, veml_C=1117.87, veml_R=441.65, veml_G=558.90, veml_B=458.17, veml_I=225.00, veml_lux=12339.28, veml_cct=5201.65, uvTemp=31.85
+Hora_python - 11:35; Hora_API - 11:35; Índice_UV_API - 3.95
+uva=71.527, uvb=2.860, uvc=1.411, uvi=4.004, opt3001_lux=12993.69, veml_C=1123.16, veml_R=442.46, veml_G=560.89, veml_B=461.36, veml_I=225.02, veml_lux=12214.07, veml_cct=5194.99, uvTemp=31.83
+Hora_python - 11:36; Hora_API - 11:36; Índice_UV_API - 3.88
+uva=68.053, uvb=2.781, uvc=1.440, uvi=4.215, opt3001_lux=13134.40, veml_C=1128.71, veml_R=443.44, veml_G=563.07, veml_B=464.63, veml_I=225.10, veml_lux=12346.34, veml_cct=5188.33, uvTemp=31.81
+Hora_python - 11:37; Hora_API - 11:37; Índice_UV_API - 3.82
+uva=66.955, uvb=3.204, uvc=1.399, uvi=3.993, opt3001_lux=12838.21, veml_C=1134.51, veml_R=444.57, veml_G=565.42, veml_B=467.96, veml_I=225.24, veml_lux=12067.92, veml_cct=5181.68, uvTemp=31.79
+Hora_python - 11:38; Hora_API - 11:38; Índice_UV_API - 3.75
+uva=68.535, uvb=2.958, uvc=1.444, uvi=3.850, opt3001_lux=12588.62, veml_C=1140.53, veml_R=445.86, veml_G=567.93, veml_B=471.34, veml_I=225.44, veml_lux=11833.31, veml_cct=5175.05, uvTemp=31.77
+Hora_python - 11:39; Hora_API - 11:39; Índice_UV_API - 3.68
+uva=73.236, uvb=2.953, uvc=1.479, uvi=3.882, opt3001_lux=12560.87, veml_C=1146.76, veml_R=447.29, veml_G=570.61, veml_B=474.75, veml_I=225.70, veml_lux=11807.22, veml_cct=5168.45, uvTemp=31.74

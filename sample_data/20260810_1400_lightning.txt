@@ -1,0 +1,65 @@
+Franklin Lightning Detector
+Starting LC auto-tuning
+TUN_CAP = 8 IRQ = 500000 Hz RES = 499200 Hz err = -800
+Noise floor = 2
+Spike rejection = 2
+Watchdog threshold = 2
+Lightning detector ready
+2026-08-10 14:00:00.000
+[0 s] Lightning strike detected! Approximately: 5 km
+2026-08-10 14:08:00.000
+[480 s] Lightning strike detected! 9 km
+2026-08-10 14:16:00.000
+[960 s] Lightning strike detected! 10 km
+2026-08-10 14:24:00.000
+[1440 s] Noise.
+2026-08-10 14:32:00.000
+[1920 s] Lightning strike detected! 12 km
+2026-08-10 14:40:00.000
+[2400 s] Disturber.
+2026-08-10 14:48:00.000
+[2880 s] Noise.
+2026-08-10 14:56:00.000
+[3360 s] Lightning strike detected! Approximately: 14 km
+2026-08-10 15:04:00.000
+[3840 s] Lightning strike detected! 10 km
+2026-08-10 15:12:00.000
+[4320 s] Noise.
+2026-08-10 15:20:00.000
+[4800 s] Disturber.
+2026-08-10 15:28:00.000
+[5280 s] Lightning strike detected! 13 km
+2026-08-10 15:36:00.000
+[5760 s] Noise.
+2026-08-10 15:44:00.000
+[6240 s] Lightning strike detected! 9 km
+2026-08-10 15:52:00.000
+[6720 s] Lightning strike detected! Approximately: 11 km
+Noise floor = 3
+Spike rejection = 3
+2026-08-10 16:00:00.000
+[7200 s] Disturber.
+2026-08-10 16:08:00.000
+[7680 s] Lightning strike detected! 12 km
+2026-08-10 16:16:00.000
+[8160 s] Lightning strike detected! 13 km
+2026-08-10 16:24:00.000
+[8640 s] Noise.
+2026-08-10 16:32:00.000
+[9120 s] Lightning strike detected! 9 km
+2026-08-10 16:40:00.000
+[9600 s] Disturber.
+2026-08-10 16:48:00.000
+[10080 s] Lightning strike detected! Approximately: 8 km
+2026-08-10 16:56:00.000
+[10560 s] Lightning strike detected! 12 km
+2026-08-10 17:04:00.000
+[11040 s] Lightning strike detected! 13 km
+2026-08-10 17:12:00.000
+[11520 s] Noise.
+2026-08-10 17:20:00.000
+[12000 s] Disturber.
+2026-08-10 17:28:00.000
+[12480 s] Lightning strike detected! 10 km
+2026-08-10 17:36:00.000
+[12960 s] Noise.
