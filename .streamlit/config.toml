@@ -1,0 +1,20 @@
+[theme]
+base="dark"
+primaryColor="#5EA8FF"
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#171C24"
+textColor="#F4F7FB"
+font="sans serif"
+
+[server]
+# Data.zip is large. The archive browser only extracts
+# selected members, but Streamlit must first accept the upload itself when the
+# user does not use a local file path.
+maxUploadSize=1024
+maxMessageSize=1024
+address="0.0.0.0"
+runOnSave=false
+fileWatcherType="none"
+
+[browser]
+gatherUsageStats=false
