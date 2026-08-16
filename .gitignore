@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+sensor_analytics.db
+sensor_analytics.db-shm
+sensor_analytics.db-wal
+Data.zip
+.DS_Store
+
+logs/
+
+.streamlit/secrets.toml
