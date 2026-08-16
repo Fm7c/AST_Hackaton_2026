@@ -125,7 +125,7 @@ def _opaque_table_names(raw: bytes) -> list[str]:
                 with warnings.catch_warnings():
                     warnings.simplefilter("ignore")
                     data = loadmat(stream, squeeze_me=True, struct_as_record=False)
-                value = data.get("None")
+                value = data.get(_var_name)
                 if isinstance(value, MatlabOpaque) and value.dtype.names and "s0" in value.dtype.names:
                     item = value["s0"]
                     if getattr(item, "size", 0):
