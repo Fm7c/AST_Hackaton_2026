@@ -4,18 +4,25 @@ cd /d "%~dp0"
 
 rem Prefer a known-compatible Python even when another version (for example 3.14)
 rem is the system default.
+rem NOTE: we compare the interpreter's own printed version string instead of
+rem trusting "py -X.Y" errorlevel alone -- some py launcher installs return
+rem exit code 0 even when the requested X.Y version does not exist.
 set "PYTHON_CMD="
-py -3.12 -c "import sys; raise SystemExit(0 if sys.version_info[:2]==(3,12) else 1)" >nul 2>nul
-if not errorlevel 1 set "PYTHON_CMD=py -3.12"
+set "PY_VER="
+for /f "delims=" %%v in ('py -3.12 -c "import sys; print(sys.version_info[:2])" 2^>nul') do set "PY_VER=%%v"
+if "%PY_VER%"=="(3, 12)" set "PYTHON_CMD=py -3.12"
 
 if not defined PYTHON_CMD (
-  py -3.11 -c "import sys; raise SystemExit(0 if sys.version_info[:2]==(3,11) else 1)" >nul 2>nul
-  if not errorlevel 1 set "PYTHON_CMD=py -3.11"
+  set "PY_VER="
+  for /f "delims=" %%v in ('py -3.11 -c "import sys; print(sys.version_info[:2])" 2^>nul') do set "PY_VER=%%v"
+  if "%PY_VER%"=="(3, 11)" set "PYTHON_CMD=py -3.11"
 )
 
 if not defined PYTHON_CMD (
-  python -c "import sys; raise SystemExit(0 if (3,11) <= sys.version_info[:2] <= (3,12) else 1)" >nul 2>nul
-  if not errorlevel 1 set "PYTHON_CMD=python"
+  set "PY_VER="
+  for /f "delims=" %%v in ('python -c "import sys; print(sys.version_info[:2])" 2^>nul') do set "PY_VER=%%v"
+  if "%PY_VER%"=="(3, 11)" set "PYTHON_CMD=python"
+  if "%PY_VER%"=="(3, 12)" set "PYTHON_CMD=python"
 )
 
 if not defined PYTHON_CMD (
@@ -46,6 +53,22 @@ if not exist .venv (
   echo Creating local Python environment...
   %PYTHON_CMD% -m venv .venv
   if errorlevel 1 pause & exit /b 1
+  if not exist .venv\Scripts\python.exe (
+    echo.
+    echo Failed to create the local Python environment ^(.venv\Scripts\python.exe not found^).
+    echo.
+    pause
+    exit /b 1
+  )
+  .venv\Scripts\python.exe -c "import sys; raise SystemExit(0 if (3,11) <= sys.version_info[:2] <= (3,12) else 1)"
+  if errorlevel 1 (
+    echo.
+    echo The local Python environment was created with an unsupported Python version.
+    echo Delete the .venv folder and run this file again with Python 3.11 or 3.12 installed.
+    echo.
+    pause
+    exit /b 1
+  )
   set "CREATED=1"
 )
 
