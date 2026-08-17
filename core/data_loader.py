@@ -124,13 +124,13 @@ def _opaque_table_names(raw: bytes) -> list[str]:
                     warnings.simplefilter("ignore")
                     data = loadmat(stream, squeeze_me=True, struct_as_record=False)
                 value = data.get(_var_name)
-                if isinstance(value, MatlabOpaque) and value.dtype.names and "s0" in value.dtype.names:
-                    item = value["s0"]
-                    if getattr(item, "size", 0):
-                        candidate = item.flat[0]
-                        if isinstance(candidate, bytes):
-                            candidate = candidate.decode("utf-8", errors="replace")
-                        candidate = str(candidate).strip()
+                if isinstance(value, MatlabOpaque) and value.dtype.names and "_Class" in value.dtype.names:
+                    cls_item = value["_Class"]
+                    cls_name = cls_item.flat[0] if getattr(cls_item, "size", 0) else None
+                    if isinstance(cls_name, bytes):
+                        cls_name = cls_name.decode("utf-8", errors="replace")
+                    if str(cls_name).strip() == "table":
+                        candidate = str(_var_name).strip()
                         if candidate and candidate not in names:
                             names.append(candidate)
             except Exception:

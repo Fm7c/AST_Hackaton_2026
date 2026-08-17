@@ -65,6 +65,13 @@ def default_timeseries(df: pd.DataFrame, meta: dict[str, Any], columns: list[str
         return None
 
     plot_df = _plot_sample(df).copy()
+    # px.line's wide-form path requires the selected columns to share one dtype.
+    # numeric_columns() only checks that values are coercible, not that the
+    # columns already agree on dtype (e.g. bool next to int64, or a mostly-numeric
+    # object column) -- coerce and cast to float64 here so mixed-dtype selections
+    # cannot reach Plotly. pd.to_numeric alone is not enough: it leaves a bool
+    # column as bool, which still differs from an int64/float64 neighbour.
+    plot_df[columns] = plot_df[columns].apply(pd.to_numeric, errors="coerce").astype("float64")
     time_col = meta.get("time_column")
     if time_col and time_col in plot_df.columns:
         x_axis = time_col
