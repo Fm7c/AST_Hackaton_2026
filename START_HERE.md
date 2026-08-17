@@ -14,6 +14,6 @@
 - **Visualisation**: only views supported by the current data are shown.
 - **Analysis**: dedicated analysis for recognised formats.
 - **Compare**: available when at least two files are selected.
-- **Data**: inspect, export or save normalised data to SQLite.
+- **Data**: inspect, export or save normalised data to a remote PostgreSQL database.
 
 If a file cannot be processed, check `logs/sensor_analytics.log`.
